@@ -1,4 +1,4 @@
-27/05/25 - Fixed nn.buffer error and tested output ok and thanks for the Cool node. 3dcc
+27/05/25 - Fixed nn.buffer error and tested output ok. Thanks for the Cool node.
 Note:Updates made with the use of Gemini
 
 # ComfyUI nodes to use [MMAudio](https://github.com/hkchengrex/MMAudio)
